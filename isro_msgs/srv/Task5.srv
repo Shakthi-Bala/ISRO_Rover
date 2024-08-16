@@ -1,0 +1,6 @@
+# Request
+string name
+int32 samplenum
+---
+# Response
+bool result
